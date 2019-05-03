@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">USB UVC Cam</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="camicon">Camera icon</string>
+    <string name="appicon">Application icon</string>
+    <string name="title_devices">Show USB Devs</string>
+	<string name="title_sensors">Show Sensors</string>
+	<string name="title_refresh">Refresh</string>
+    <string name="title_clear">Clear</string>
+	<string name="title_blank"/>
+</resources>

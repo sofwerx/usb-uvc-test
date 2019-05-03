@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:title="@string/title_devices" android:id="@+id/nav_devices"
+	      android:icon="@android:drawable/ic_menu_view"/>
+	<item android:id="@+id/nav_sensors" android:title="@string/title_sensors"
+	      android:icon="@android:drawable/ic_menu_always_landscape_portrait"/>
+	<item android:title="@string/title_clear" android:id="@+id/nav_clear"
+	      android:icon="@android:drawable/ic_menu_close_clear_cancel"/>
+</menu>
